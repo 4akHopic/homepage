@@ -1,2 +1,2 @@
-# Homepage
+# HomepagE
 My public website
